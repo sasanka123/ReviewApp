@@ -54,5 +54,4 @@ function FeedbackForm({ handleAdd }) {
     </Card>
   );
 }
-
 export default FeedbackForm;
